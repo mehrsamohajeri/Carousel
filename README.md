@@ -4,7 +4,7 @@
 
 https://github.com/Mehrsa-Mohajeri-Developer/Carousel/assets/145048780/1deb8aa4-6b97-4e3d-ac42-69ba94bef434
 
-- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Carousel/)
+- 🔗 [Demo Project](https://mehrsamohajeri.github.io/Carousel/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
